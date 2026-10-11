@@ -1,0 +1,25 @@
+{
+  "name": "jhazel-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config ../packages/portfolio/vite.config.ts",
+    "build": "tsc -b ../packages/portfolio/tsconfig.json && vite build --config ../packages/portfolio/vite.config.ts",
+    "preview": "vite preview --config ../packages/portfolio/vite.config.ts"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/node": "^22.10.0"
+  }
+}
