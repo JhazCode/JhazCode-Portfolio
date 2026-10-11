@@ -1,57 +1,28 @@
-# Jhazel Apuli Portfolio
+# Jhazel John B. Apuli — Portfolio
 
-Personal portfolio website for Jhazel John B. Apuli, an Information Technology student focused on infrastructure, technical support, networking, and systems administration.
+This is my personal portfolio. I am **Jhazel John B. Apuli**, an Information
+Technology student at **National University — Fairview** and a consistent Dean's Lister.
 
-## Repository structure
+My portfolio highlights my academic projects, laboratory
+activities, credentials, and interests in IT industry.
 
-```text
-jhazel-portfolio/
-├── packages/
-│   └── portfolio/          # Vite application package and source code
-│       ├── index.html
-│       ├── src/
-│       └── vite.config.ts
-├── dependencies/           # Package manifest, lockfile, and installed packages
-│   ├── package.json
-│   ├── package-lock.json
-│   └── node_modules/
-├── pages/                  # Application-level React page components
-│   ├── Home.tsx
-│   ├── Skills.tsx
-│   ├── Projects.tsx
-│   ├── Experience.tsx
-│   ├── Credentials.tsx
-│   └── Contact.tsx
-├── resources/              # Shared visual resources and static assets
-│   ├── files/              # Downloadable documents such as a resume PDF
-│   ├── fonts/              # Bundled JetBrains Mono webfont files
-│   ├── images/             # Profile pictures, project screenshots, and badges
-│   └── styles.css
-```
+## Featured work
 
-The root intentionally contains only these categorized folders and this README. `packages/portfolio` contains the application source, while `dependencies` owns the Node package manifest and installed dependencies.
+- **DriveWise** — A fleet management system with GPS tracking that I worked on.
+- **QReserve** — A web-based reservation system with QR-code check-in.
 
-## Standalone pages
+## Tech Stack
 
-The portfolio is built as a multi-page Vite application. Each destination has its
-own HTML entry point, so the browser performs ordinary page navigation instead of
-trying to fit every destination into one scroll-snap document:
+- React
+- TypeScript
+- Vite
+- Lucide React
+- Custom CSS
+- JetBrains Mono
 
-- `index.html` — About Me landing page
-- `skills.html` — Skills
-- `projects.html` — Projects
-- `experience.html` — Experience
-- `credentials.html` — Credentials
-- `contact.html` — Let’s Connect
+## Connect
 
-All pages use the shared `PageShell`, navbar, footer, components, and stylesheet.
-Page content uses natural document height, allowing longer pages to scroll normally
-without overlapping the next section.
-
-## Commands
-
-```bash
-npm --prefix dependencies run dev
-npm --prefix dependencies run build
-npm --prefix dependencies run preview
-```
+- [GitHub](https://github.com/JhazCode)
+- [LinkedIn](https://www.linkedin.com/in/jhazel-john-apuli/)
+- [Facebook](https://www.facebook.com/jhazeljohnofficial)
+- Email: [apulijhazeljohnbernardo@gmail.com](mailto:apulijhazeljohnbernardo@gmail.com)
