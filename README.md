@@ -1,4 +1,4 @@
-# Jhazel John B. Apuli — Portfolio
+# Jhazel John B. Apuli
 
 This is my personal portfolio. I am **Jhazel John B. Apuli**, an Information
 Technology student at **National University — Fairview** and a consistent Dean's Lister.
@@ -20,7 +20,7 @@ activities, credentials, and interests in IT industry.
 - Custom CSS
 - JetBrains Mono
 
-## Connect
+## Connect with me
 
 - [GitHub](https://github.com/JhazCode)
 - [LinkedIn](https://www.linkedin.com/in/jhazel-john-apuli/)
