@@ -1,4 +1,4 @@
-# Jhazel John B. Apuli
+# JhazCode
 
 This is my personal portfolio. I am **Jhazel John B. Apuli**, an Information
 Technology student at **National University — Fairview** and a consistent Dean's Lister.
