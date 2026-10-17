@@ -1,7 +1,7 @@
 import { ArrowDownRight, ArrowUpRight, CheckCircle2 } from 'lucide-react'
 import avatarUrl from '../resources/images/Apuli_2x2.jpg'
 import linkedinIconUrl from '../resources/images/in.png'
-import resumeUrl from '../resources/files/Apuli_Resume_2026.pdf'
+import resumeUrl from '../resources/files/Apuli_Resume_2026_Validated.pdf'
 import { PageShell } from '../packages/portfolio/src/PageShell'
 
 export default function Home() {
@@ -53,7 +53,7 @@ export default function Home() {
               <a
                 className="button button-quiet"
                 href={resumeUrl}
-                download="Apuli_Resume_2026.pdf"
+                download="Apuli_Resume_2026_Validated.pdf"
               >
                 DOWNLOAD RESUME <ArrowDownRight size={16} />
               </a>

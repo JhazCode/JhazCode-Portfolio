@@ -36,8 +36,8 @@ export const certifications: Certification[] = [
     ],
   },
   {
-    name: 'Software and Hardware',
-    providers: ['Cisco Networking Academy'],
+    name: 'Software, Hardware, & Networking',
+    providers: ['Cisco Networking Academy', 'LinkedIn Learning'],
     image: ciscoLogo,
     actions: [
       {
