@@ -57,7 +57,7 @@ export default function Home() {
               >
                 DOWNLOAD RESUME <ArrowDownRight size={16} />
               </a>
-              <a className="button button-quiet" href="#" aria-label="LinkedIn profile">
+              <a className="button button-quiet" href="https://linkedin.com/in/jhazel-john-apuli" aria-label="LinkedIn profile">
                 <img className="linkedin-icon" src={linkedinIconUrl} alt="" /> LINKEDIN
               </a>
             </div>
